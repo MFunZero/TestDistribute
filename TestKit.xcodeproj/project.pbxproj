@@ -10,6 +10,7 @@
 		1D8A7A83E566F6DC6625D8EE /* Pods_TestKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 604B31598E0958B36220B12F /* Pods_TestKit.framework */; };
 		73FC462F2390E56D0002C5C2 /* TestKit.png in Resources */ = {isa = PBXBuildFile; fileRef = 73FC462E2390E56D0002C5C2 /* TestKit.png */; };
 		73FC46322390E6550002C5C2 /* manifest.plist in Resources */ = {isa = PBXBuildFile; fileRef = 73FC46312390E6550002C5C2 /* manifest.plist */; };
+		73FC46342390E8100002C5C2 /* download.html in Resources */ = {isa = PBXBuildFile; fileRef = 73FC46332390E8100002C5C2 /* download.html */; };
 		73FE28FD238D054D00E603EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73FE28FC238D054D00E603EE /* AppDelegate.swift */; };
 		73FE2901238D054D00E603EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73FE2900238D054D00E603EE /* ViewController.swift */; };
 		73FE2904238D054D00E603EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73FE2902238D054D00E603EE /* Main.storyboard */; };
@@ -23,6 +24,7 @@
 		73FC462E2390E56D0002C5C2 /* TestKit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TestKit.png; sourceTree = "<group>"; };
 		73FC46302390E5790002C5C2 /* TestKit.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = TestKit.ipa; sourceTree = "<group>"; };
 		73FC46312390E6550002C5C2 /* manifest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = manifest.plist; sourceTree = "<group>"; };
+		73FC46332390E8100002C5C2 /* download.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = download.html; sourceTree = "<group>"; };
 		73FE28F9238D054D00E603EE /* TestKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73FE28FC238D054D00E603EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73FE2900238D054D00E603EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				73FC46312390E6550002C5C2 /* manifest.plist */,
 				73FC46302390E5790002C5C2 /* TestKit.ipa */,
 				73FC462E2390E56D0002C5C2 /* TestKit.png */,
+				73FC46332390E8100002C5C2 /* download.html */,
 			);
 			path = Distribute;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			files = (
 				73FE2909238D054E00E603EE /* LaunchScreen.storyboard in Resources */,
 				73FE2906238D054E00E603EE /* Assets.xcassets in Resources */,
+				73FC46342390E8100002C5C2 /* download.html in Resources */,
 				73FC46322390E6550002C5C2 /* manifest.plist in Resources */,
 				73FC462F2390E56D0002C5C2 /* TestKit.png in Resources */,
 				73FE2904238D054D00E603EE /* Main.storyboard in Resources */,
