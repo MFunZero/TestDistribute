@@ -22,9 +22,9 @@
 		2A1713CE71AC1C25778556F5 /* Pods-TestKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestKit.debug.xcconfig"; path = "Target Support Files/Pods-TestKit/Pods-TestKit.debug.xcconfig"; sourceTree = "<group>"; };
 		604B31598E0958B36220B12F /* Pods_TestKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		73FC462E2390E56D0002C5C2 /* TestKit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TestKit.png; sourceTree = "<group>"; };
-		73FC46302390E5790002C5C2 /* TestKit.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = TestKit.ipa; sourceTree = "<group>"; };
 		73FC46312390E6550002C5C2 /* manifest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = manifest.plist; sourceTree = "<group>"; };
 		73FC46332390E8100002C5C2 /* download.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = download.html; sourceTree = "<group>"; };
+		73FC46352390F21D0002C5C2 /* TestKit.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = TestKit.ipa; sourceTree = "<group>"; };
 		73FE28F9238D054D00E603EE /* TestKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73FE28FC238D054D00E603EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73FE2900238D054D00E603EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,8 +67,8 @@
 		73FC462D2390E44E0002C5C2 /* Distribute */ = {
 			isa = PBXGroup;
 			children = (
+				73FC46352390F21D0002C5C2 /* TestKit.ipa */,
 				73FC46312390E6550002C5C2 /* manifest.plist */,
-				73FC46302390E5790002C5C2 /* TestKit.ipa */,
 				73FC462E2390E56D0002C5C2 /* TestKit.png */,
 				73FC46332390E8100002C5C2 /* download.html */,
 			);
